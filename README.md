@@ -76,3 +76,17 @@ This repo tells the story of objectiving emotions.
 
 ![image  object 2](https://user-images.githubusercontent.com/92102729/154486064-cbceb0cd-dc6c-458a-8e67-5c02011ff843.png)
 ![image  object 3](https://user-images.githubusercontent.com/92102729/154486067-d578f278-0f85-4165-8211-aad6d1e33f7b.JPG)
+  
+  
+  <p>Bill of Materials (BOM):
+    <li> ABS plastic</li>
+    
+  </p> 
+  <p>Tools used:
+      <ul>
+        <li><strong>Adobe Illustrator CC</strong> for ideating, documenting and sketching </li>
+        <li><strong>Fusion 360</strong> for aligning </li>
+        <li><strong>Programming</strong> as database for coding ideas </li>
+        <li><strong>p5.js</strong> for programming the graphs </li>
+      </ul>
+  </p>
