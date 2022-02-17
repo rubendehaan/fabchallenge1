@@ -53,6 +53,17 @@ This repo tells the story of objectiving emotions.
 
 *Visualizing three dimensions*
 
+<img src="https://user-images.githubusercontent.com/92102729/154495498-0491a021-949f-4399-a99b-693d307540f5.jpg" alt="drawing" width="70%"/>
+
+<img src="https://user-images.githubusercontent.com/92102729/154495972-c25e9356-b297-47db-bba8-9fc8ed903139.jpg" alt="drawing" width="70%"/>
+
+<img src="https://user-images.githubusercontent.com/92102729/154496229-189756c2-997a-449b-9b12-074d80bf91e2.jpg" alt="drawing" width="70%"/>
+
+<img src="https://user-images.githubusercontent.com/92102729/154496524-27be02cd-b6df-4e7f-9291-309095724119.jpg" alt="drawing" width="70%"/>
+
+<img src="https://user-images.githubusercontent.com/92102729/154496868-f01ef6e8-aef1-40b4-a84f-e8088c6914c0.jpg" alt="drawing" width="70%"/>
+
+
 
 
 
