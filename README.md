@@ -79,8 +79,9 @@ This repo tells the story of objectiving emotions.
   
   
   <p>Bill of Materials (BOM):
-    <li> ABS plastic</li>
-    
+      <ul>
+        <li> ABS plastic</li>
+      </ul>
   </p> 
   <p>Tools used:
       <ul>
