@@ -1,8 +1,9 @@
 # Sculpted Emotions <br> MDEF Challenge 01 (February 16th - February 18th, 2022)
 
-### Nikita Bandeverich and Ruben de Haan
+### <a href="https://nikita-bandarevich.github.io/web_portfolio/index.html/">Nikita Bandarevich<a> and <a href="https://rubendehaan.github.io/xz5rv/">Ruben de Haan<a>
 
 This repo tells the story of objectiving emotions.
+
 
 ![research](https://user-images.githubusercontent.com/92102729/154486106-9eb04227-82f8-4ed6-95f5-d9dbed05570f.jpg)
 *Finding common ground*
@@ -12,9 +13,9 @@ This repo tells the story of objectiving emotions.
 <img src="https://user-images.githubusercontent.com/92102729/154500797-7d01bfc7-1459-4e9c-9086-11cc30cc2515.png" alt="drawing" width="70%"/>
 *Focus topics*
 
-### Research
+### Initial idea
 
-*References*
+  • Creating a tool to communicate emotions better. 
 
 
 
@@ -24,7 +25,7 @@ This repo tells the story of objectiving emotions.
 ### Process
 
 
-<img src="https://user-images.githubusercontent.com/92102729/154491268-882386c2-85a5-40e3-a7a2-98abbfbcf228.png" alt="drawing" width="40%"/>
+<img src="https://user-images.githubusercontent.com/92102729/154491268-882386c2-85a5-40e3-a7a2-98abbfbcf228.png" alt="drawing" width="40%" align-content="center"/>
 
 *Questioneer idea*
 
