@@ -4,8 +4,12 @@
 
 This repo tells the story of objectiving emotions.
 
-![research](images/firstiteration.png)
-*Research*
+![research](https://user-images.githubusercontent.com/92102729/154486106-9eb04227-82f8-4ed6-95f5-d9dbed05570f.jpg)
+
+*Finding common ground*
 
 
 ### What are sculpted emotions?
+![image  object 1](https://user-images.githubusercontent.com/92102729/154486056-5a65c22f-73d2-4400-9e35-7880980c995d.png)
+![image  object 2](https://user-images.githubusercontent.com/92102729/154486064-cbceb0cd-dc6c-458a-8e67-5c02011ff843.png)
+![image  object 3](https://user-images.githubusercontent.com/92102729/154486067-d578f278-0f85-4165-8211-aad6d1e33f7b.JPG)
