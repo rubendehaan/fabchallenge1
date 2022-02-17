@@ -9,7 +9,7 @@ This repo tells the story of objectiving emotions.
 
 
 
-<img src="https://user-images.githubusercontent.com/92102729/154488404-d4108f9d-c955-4508-9230-44079238d150.png" alt="drawing" width="70%"/>
+<img src="https://user-images.githubusercontent.com/92102729/154500797-7d01bfc7-1459-4e9c-9086-11cc30cc2515.png" alt="drawing" width="70%"/>
 *Focus topics*
 
 ### Research
