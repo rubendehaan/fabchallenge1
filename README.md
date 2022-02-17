@@ -24,7 +24,7 @@ This repo tells the story of objectiving emotions.
 ### Process
 
 
-<img src="https://user-images.githubusercontent.com/92102729/154491268-882386c2-85a5-40e3-a7a2-98abbfbcf228.png" alt="drawing" width="70%"/>
+<img src="https://user-images.githubusercontent.com/92102729/154491268-882386c2-85a5-40e3-a7a2-98abbfbcf228.png" alt="drawing" width="40%"/>
 
 *Questioneer idea*
 
