@@ -18,9 +18,13 @@ This repo tells the story of objectiving emotions.
   • Creating a tool to communicate emotions better. 
 
 
+## References
+<img src="https://user-images.githubusercontent.com/92102729/154521308-a26e504a-4dc6-44e0-9c0b-9e4b29539dd8.png" alt="drawing" width="70%"/>
 
+  
+  
 ### What are sculpted emotions?
-
+  • Objects that give a emotions a form.
 
 ### Process
 
