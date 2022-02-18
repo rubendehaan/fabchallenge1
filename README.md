@@ -2,8 +2,8 @@
 
 ### <a href="https://nikita-bandarevich.github.io/web_portfolio/index.html/">Nikita Bandarevich<a> and <a href="https://rubendehaan.github.io/xz5rv/">Ruben de Haan<a>
   
-https://editor.p5js.org/samuraichamploo/full/z-T5Aoci0
-https://emo-sculpting.webflow.io/
+<a href="https://editor.p5js.org/samuraichamploo/full/z-T5Aoci0">P5.js script of programmed sculpture </a><br>
+  <a href="https://emo-sculpting.webflow.io/">website</a>
   
 This repo tells the story of objectiving emotions.
 
