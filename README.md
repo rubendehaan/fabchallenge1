@@ -85,6 +85,10 @@ This repo tells the story of objectiving emotions.
 ![image  object 3](https://user-images.githubusercontent.com/92102729/154486067-d578f278-0f85-4165-8211-aad6d1e33f7b.JPG)
   
   
+  ### Applications
+  
+  
+  
   <p>Bill of Materials (BOM):
       <ul>
         <li> ABS plastic</li>
@@ -100,3 +104,4 @@ This repo tells the story of objectiving emotions.
         <li><strong>SLA 3D printer</strong> for printing the rings</li>
       </ul>
   </p>
+  
