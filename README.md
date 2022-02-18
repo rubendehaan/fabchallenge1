@@ -88,6 +88,7 @@ This repo tells the story of objectiving emotions.
   <p>Bill of Materials (BOM):
       <ul>
         <li> ABS plastic</li>
+        <li> UV resin </li>
       </ul>
   </p> 
   <p>Tools used:
@@ -96,5 +97,6 @@ This repo tells the story of objectiving emotions.
         <li><strong>Fusion 360</strong> for aligning </li>
         <li><strong>Programming</strong> as database for coding ideas </li>
         <li><strong>p5.js</strong> for programming the graphs </li>
+        <li><strong>SLA 3D printer</strong> for printing the rings</li>
       </ul>
   </p>
