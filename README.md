@@ -6,6 +6,7 @@
   <a href="https://emo-sculpting.webflow.io/">website</a>
   
 This repo tells the story of objectiving emotions.
+We started our microchallenge by extensively specifying our interests and overlap between them.
 
 
 ![research](https://user-images.githubusercontent.com/92102729/154486106-9eb04227-82f8-4ed6-95f5-d9dbed05570f.jpg)
@@ -14,11 +15,9 @@ This repo tells the story of objectiving emotions.
 
 
 <img src="https://user-images.githubusercontent.com/92102729/154500797-7d01bfc7-1459-4e9c-9086-11cc30cc2515.png" alt="drawing" width="70%"/>
-*Focus topics*
 
 ### Initial idea
-
-  • Creating a tool to communicate emotions better. 
+After defining 'sculpting emotions' as previsional common topic we raised the idea to create a tool which allows any user to communicate emotions better. 
 
 
 ### References
@@ -36,7 +35,9 @@ This repo tells the story of objectiving emotions.
 
 *Questioneer idea*
 
-
+We went trough a series of iterations, mainly differentiating between UX interfaces and types of visuals.
+  
+  
 <img src="https://user-images.githubusercontent.com/92102729/154493732-bb3d34db-7e4a-47b3-99b1-e51e5fbb8118.jpg" alt="drawing" width="70%"/>
 
 *First slider idea*
@@ -60,6 +61,8 @@ This repo tells the story of objectiving emotions.
 
 
 *Visualizing three dimensions*
+We realized that a 2D ecosystem would not justify the complexity of the emotion so we added a dimension in
+a series of new visualizations.
 
 <img src="https://user-images.githubusercontent.com/92102729/154495498-0491a021-949f-4399-a99b-693d307540f5.jpg" alt="drawing" width="70%"/>
 
@@ -84,6 +87,16 @@ This repo tells the story of objectiving emotions.
 ![image  object 2](https://user-images.githubusercontent.com/92102729/154486064-cbceb0cd-dc6c-458a-8e67-5c02011ff843.png)
 ![image  object 3](https://user-images.githubusercontent.com/92102729/154486067-d578f278-0f85-4165-8211-aad6d1e33f7b.JPG)
   
+  Ultimately we created a Fusion file with eight parameters. Each parameter influences the shape in a way that 
+  the extremer the emotional value, the extremer the resulting shape. This method led to some interesting shapes, one
+  of which we SLA printed.
+  
+  
+  
+  ![slaprint](https://user-images.githubusercontent.com/92102729/174887540-a8800660-aeb2-43cb-b52c-055d9bee712a.gif)
+
+  ![slaprint](https://user-images.githubusercontent.com/92102729/174887621-ac530d86-b2c1-4906-b765-c304820cfcc6.jpg)
+
   
   ### Applications
   
