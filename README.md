@@ -29,7 +29,7 @@ After defining 'sculpting emotions' as previsional common topic we raised the id
   • Objects that give a emotions a form.
 
 ### Process
-
+We started with a questioneer-style format in which the user defines his emotion through a series of questions.
 
 <img src="https://user-images.githubusercontent.com/92102729/154491268-882386c2-85a5-40e3-a7a2-98abbfbcf228.png" alt="drawing" width="40%" align-content="center"/>
 
@@ -93,9 +93,10 @@ a series of new visualizations.
   
   
   
-  ![slaprint](https://user-images.githubusercontent.com/92102729/174887540-a8800660-aeb2-43cb-b52c-055d9bee712a.gif)
+  ![slaprint1](https://user-images.githubusercontent.com/92102729/174887540-a8800660-aeb2-43cb-b52c-055d9bee712a.gif)
 
-  ![slaprint](https://user-images.githubusercontent.com/92102729/174887621-ac530d86-b2c1-4906-b765-c304820cfcc6.jpg)
+  The SLA printed rings after hardening.
+  ![slaprint2](https://user-images.githubusercontent.com/92102729/174887621-ac530d86-b2c1-4906-b765-c304820cfcc6.jpg)
 
   
   ### Applications
