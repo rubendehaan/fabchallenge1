@@ -35,7 +35,7 @@ We started with a questioneer-style format in which the user defines his emotion
 
 *Questioneer idea*
 
-We went trough a series of iterations, mainly differentiating between UX interfaces and types of visuals.
+We went trough a series of iterations, mainly differentiating between UX interfaces and types of visuals. Ruben used visualization tools to interpret the different approach, which Nikita utilised as targets for P5.js script. 
   
   
 <img src="https://user-images.githubusercontent.com/92102729/154493732-bb3d34db-7e4a-47b3-99b1-e51e5fbb8118.jpg" alt="drawing" width="70%"/>
